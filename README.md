@@ -19,14 +19,5 @@ PASSED: delete
 PASSED: Creatjira
 PASSED: update
 
-===============================================
-    Default test
-    Tests run: 3, Failures: 0, Skips: 0
-===============================================
 
-
-===============================================
-Default suite
-Total tests run: 3, Passes: 3, Failures: 0, Skips: 0
-===============================================
 
